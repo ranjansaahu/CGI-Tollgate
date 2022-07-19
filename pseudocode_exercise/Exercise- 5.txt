@@ -1,0 +1,9 @@
+Write pseudocode to swap two numbers without using third variable.
+
+Begin
+Read x, y
+x = x + y.
+y= x - y.
+x =x - y.
+Print x, y.
+End

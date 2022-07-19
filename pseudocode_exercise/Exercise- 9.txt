@@ -1,0 +1,15 @@
+Write pseudocode to accept student Details like (StudentID, StudentName, StudentAge, Marks1, Marks2,Marks3) Calculate Total and Percentage. If percentage is greater than 50 then display “PASS” else display “FAIL”.
+
+Begin
+String StudentName
+Read StudentID, StudentAge, StudentName
+Read Marks1, Marks2, Marks3
+totalMarks= Marks1 + Marks2 + Marks3
+percentage= (totalMarks/300)*100
+Print totalMarks
+Print percentage
+If (percentage>50)
+Print PASS
+Else
+Print FAIL
+END

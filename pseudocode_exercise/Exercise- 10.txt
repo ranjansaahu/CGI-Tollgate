@@ -1,0 +1,13 @@
+Write pseudocode for printing fibonacci series upto 100
+
+Begin
+Int a=0, b=1, c ,i
+Print a and b
+For (i from 2 to less than 100, increment i)
+        Begin
+    		c = a + b
+   		print c
+     		a=b
+     		b=c
+        End
+End

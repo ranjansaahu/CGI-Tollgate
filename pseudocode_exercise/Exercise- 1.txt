@@ -1,0 +1,7 @@
+Write pseudocode for accepting radius and calculate the area of the circle.
+
+Begin
+Read radius
+area= 3.14*radius*radius
+print area
+End

@@ -1,0 +1,9 @@
+Write an algorithm for accepting a number and display the whether it is odd or even.
+
+Step 1: Start
+Step 2: Taking input of a number say n
+Step 3: Read the number n
+Step 4: Check if((n divided by 2 gives remainder 0), then
+Step 5: Print n is an even number
+Step 6: Otherwise, print n is an odd number
+Step 7: End

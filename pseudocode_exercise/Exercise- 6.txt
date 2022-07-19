@@ -1,0 +1,18 @@
+Write pseudocode for accepting a number and check whether number is perfect square or not.
+
+Begin
+Read N
+If (N>=0)
+	Begin
+		check= sqrt(N)
+		result= check%floor(check)
+		if (result=0)
+		Begin
+			Print is a perfect square
+			else
+			Print is not a perfect square
+		End
+	End
+Else
+Print is not a perfect square
+End

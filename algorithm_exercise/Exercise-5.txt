@@ -1,0 +1,9 @@
+Write an algorithm for accepting two numbers and display the highest number among two.
+
+Step 1: Start  
+Step 2: Declare variables a, b
+Step 3: Take input for a, b  
+Step 4: If (a>b) go to step 4 or go to step 5  
+Step 5: Print "A is Biggest"  
+Step 6: otherwise print "B is Biggest"  
+Step 7: Stop

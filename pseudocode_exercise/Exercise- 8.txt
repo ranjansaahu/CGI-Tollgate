@@ -1,0 +1,25 @@
+Write pseudocode for implementing the concept of menu driven calculator which will accept two numbers and perform the calculation based upon users choice like (+,-,*,/).
+
+Begin
+Read a, b
+Print Enter 1 for Addition
+Print Enter 2 for Substract
+Print Enter 3 for Multiplication
+Print Enter 4 for Division
+Read c
+If (c=1)
+	Begin
+		add= a+b
+		Print add
+		Else if (c=2)
+		sub= a-b
+		Print sub
+		Else if (c=3)
+		multiply= a*b
+		Print multiply
+	End
+Else
+divide =a/b
+Print divide
+End
+		

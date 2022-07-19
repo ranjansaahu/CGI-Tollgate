@@ -1,0 +1,10 @@
+Write an algorithm for accepting the age of user and if the age is valid, check whether the user is a kid, 
+a teenager, an adult or a senior citizen.
+
+Step 1: Start
+Step 2: Take input for age
+Step 3: If age < 13, Print "kid"
+Step 4: else if age>= 18 and age< 50, Print "adult"           
+Step 5: else if age>= 50, Print "senior citizen"           
+Step 6: Otherwise, Print "teenager"          
+Step 7: Stop

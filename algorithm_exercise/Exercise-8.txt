@@ -1,0 +1,14 @@
+Write an algorithm for accepting a character and then display whether it is a vowel or a constant.
+
+
+Step 1: Start
+Step 2: Declare character type variable ch
+Step 3: Input ch from user
+Step 4: If (ch == 'a' or ch == 'A' or
+	      ch == 'e' or ch == 'E' or
+	      ch == 'i' or ch == 'I' or
+	      ch == 'o' or ch == 'O' or
+	      ch == 'u' or ch == 'U' )
+Step 5: Print "Vowel"
+Step 6: Otherwise, Print "Constant"
+Step 7: Stop

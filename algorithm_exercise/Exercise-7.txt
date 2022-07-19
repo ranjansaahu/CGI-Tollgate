@@ -1,0 +1,8 @@
+Write an algorithm for accepting the distance and speed values for a particular journey, calculate the time taken for the journey and display the same.
+
+Step 1: Start
+Step 2: Declare speed, time and dist
+Step 3: Take input for speed in km/h and dist in km
+Step 4: To get time divide dist by speed
+Step 5: Output time
+Step 6: Stop

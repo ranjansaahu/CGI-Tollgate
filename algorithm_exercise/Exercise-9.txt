@@ -1,0 +1,8 @@
+Write an algorithm for accepting three numbers and display the highest number among the three numbers.
+
+Step 1: Start
+Step 2: Take input for three variables X,Y,Z.
+Step 3: If X>Y and X>Z print X is the GREATEST.
+Step 4: else if Y>Z and Y>X print Y is the GREATEST.
+Step 5: otherwise print Z is GREATEST.
+Step 6: Stop

@@ -1,0 +1,7 @@
+Write an algorithm for accepting distance in kilometers, convert it into meters and display the result.
+
+Step 1: Start
+Step 2: User input distance in Kilometers, stored in variable dist
+Step 3: tometers= dist*1000
+Step 4: Output tometers
+Step 5: Stop

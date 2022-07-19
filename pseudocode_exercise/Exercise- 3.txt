@@ -1,0 +1,20 @@
+Write pseudocode for checking whether given number is perfect number or not.
+
+
+Begin
+Int i=1, num=0, sum=0
+Write “Enter a positive integer: “
+Read num
+DOWHILE (i<num)
+	Begin
+		Begin
+			If num%i = 0 then
+			increment sum
+			increment i
+		End
+	End
+If (sum=num) then
+Write num “ is a perfect number.”
+Else
+Write num “is not a perfect number.”
+End

@@ -1,0 +1,10 @@
+Write an algorithm for accepting five numbers and display the sum and average of the numbers.
+
+Step 1: Start
+Step 2: Declare a,b,c,d,e,average,sum
+Step 3: User input variable in a,b,c,d,e
+Step 4: sum= a+b+c+d+e
+Step 5: For average divide sum by 5
+Step 6: Output sum
+Step 7: Output average
+Step 8: Stop 

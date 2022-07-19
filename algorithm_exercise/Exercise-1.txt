@@ -1,0 +1,9 @@
+Write an algorithm for accepting two numbers, divide the first number by second and display their quotient.
+
+Step 1: Start
+Step 2: Assume that num1, num2 and quotient are the three variables.
+Step 3: Accept the user's first input, num1.
+Step 4: Accept the user's second input, num2.
+Step 5: To get quotient divide num1 by num2. 
+Step 6: Output quotient.
+Step 7: Stop

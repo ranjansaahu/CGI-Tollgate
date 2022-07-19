@@ -1,0 +1,16 @@
+Write pseudocode accepting three numbers and display the lowest number out of three numbers.
+
+Begin
+Read num1, num2, num3
+	Begin
+		If(num1 < num2) then
+		If(num1 < num3) then
+		Print "num1 is the smallest"
+		else
+		Print "num3 is the smallest"
+	End
+Else if(num2 < num3) then
+Print "num2 is the smallest"
+Else
+Print "num3 is the smallest"
+End

@@ -1,0 +1,25 @@
+Write pseudocode for accepting a number from 1 to 7 and display the name of the week.
+
+
+Begin
+Read n
+If (n=1)
+	Begin
+		Print Monday
+		Else if (n=2)
+		Print Tuesday
+		Else if (n=3)
+		Print Wednesday
+		Else if (n=4)
+		Print Thrusday
+		Else if (n=5)
+		Print Friday
+		Else if (n=6)
+		Print Saturday
+		Else if (n=7)
+		Print Sunday
+	End
+Else
+Print Enter number between 1 to 7
+End
+
